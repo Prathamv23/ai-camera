@@ -1,5 +1,5 @@
 # ai-camera
-This is a tkinter gui app for ai camera.
+This is a tkinter gui app for AI camera.
 
 you just need to run mainlogin.py file inorder to run full app
 
